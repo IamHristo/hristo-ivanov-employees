@@ -1,0 +1,39 @@
+﻿[
+  {
+    "EmpId": 142,
+    "ProjectId": 10,
+    "DateFrom": "2020-10-01",
+    "DateTo": "2020/20/12"
+  },
+  {
+    "EmpId": 143,
+    "ProjectId": 10,
+    "DateFrom": "2020/12/01",
+    "DateTo": null
+  },
+  {
+    "EmpId": 142,
+    "ProjectId": 12,
+    "DateFrom": "2020/12/03",
+    "DateTo": "2020/12/07"
+  },
+  {
+    "EmpId": 143,
+    "ProjectId": 12,
+    "DateFrom": "2020/12/03",
+    "DateTo": "2020/12/05"
+  },
+
+  {
+    "EmpId": 218,
+    "ProjectId": 12,
+    "DateFrom": "2020/01/03",
+    "DateTo": null
+  },
+  {
+    "EmpId": 250,
+    "ProjectId": 12,
+    "DateFrom": "2020/01/03",
+    "DateTo": "2020/02/03"
+  }
+]

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamLongestPeriod", "TeamLongestPeriod\TeamLongestPeriod.csproj", "{028FC478-EA55-42B5-A88D-2FB405A5D2D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "..\TeamLongestPeriodWPF.NetFramework\WpfApp1\WpfApp1.csproj", "{5B92EB91-E7F8-46EB-86BE-90FF67BDCA1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{028FC478-EA55-42B5-A88D-2FB405A5D2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028FC478-EA55-42B5-A88D-2FB405A5D2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028FC478-EA55-42B5-A88D-2FB405A5D2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028FC478-EA55-42B5-A88D-2FB405A5D2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B92EB91-E7F8-46EB-86BE-90FF67BDCA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B92EB91-E7F8-46EB-86BE-90FF67BDCA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B92EB91-E7F8-46EB-86BE-90FF67BDCA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B92EB91-E7F8-46EB-86BE-90FF67BDCA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68706D05-7E69-436A-A4AD-9072AF9FF550}
+	EndGlobalSection
+EndGlobal
